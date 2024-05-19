@@ -3,21 +3,21 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="RecordyourTravel.App">
     <Application.Resources>
+      
         <ResourceDictionary>
             <Color x:Key="darkolivegreen">#556B2F</Color>
             <Color x:Key="aquablue">#1E90FF</Color>
             <Color x:Key="beige">#F5F5DC</Color>
             <Color x:Key="whiteColor">#FFFFFF</Color>
             <Color x:Key="turqouise">#40E0D0</Color>
-            
 
-            <Style TargetType="Button">
 
+            <Style x:Key="normalButton" TargetType="Button">
                 <Setter Property="BackgroundColor" Value="{StaticResource turqouise}" />
                 <Setter Property="TextColor" Value="{StaticResource whiteColor}" />
-
             </Style>
-            
+
         </ResourceDictionary>
+   
     </Application.Resources>
 </Application>

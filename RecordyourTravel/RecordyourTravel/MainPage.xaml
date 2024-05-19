@@ -19,6 +19,8 @@
                
                 TextColor="Beige"
                 Clicked="loginButton_Clicked"
+                Style="{StaticResource normalButton}"
+                
                 />
     </StackLayout>
 
