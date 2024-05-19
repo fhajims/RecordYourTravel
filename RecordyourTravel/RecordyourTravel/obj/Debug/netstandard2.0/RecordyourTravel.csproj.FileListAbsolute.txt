@@ -1,0 +1,15 @@
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\bin\Debug\netstandard2.0\RecordyourTravel.deps.json
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\bin\Debug\netstandard2.0\RecordyourTravel.dll
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\bin\Debug\netstandard2.0\ref\RecordyourTravel.dll
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\bin\Debug\netstandard2.0\RecordyourTravel.pdb
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\RecordyourTravel.csproj.AssemblyReference.cache
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\RecordyourTravel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\RecordyourTravel.AssemblyInfoInputs.cache
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\RecordyourTravel.AssemblyInfo.cs
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\RecordyourTravel.csproj.CoreCompileInputs.cache
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\RecordyourTravel.dll
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\refint\RecordyourTravel.dll
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\RecordyourTravel.pdb

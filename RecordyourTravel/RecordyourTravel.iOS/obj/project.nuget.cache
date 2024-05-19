@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eA5dL78bpAF7pcf8+m9UPIvA7wv/5aX8jv8BIdb21sF56cUNx1RzXfG6JCe4LZ6b81SvXs0p8W4UTh3XbPKTDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FH_J\\source\\repos\\RecordyourTravel\\RecordyourTravel\\RecordyourTravel.iOS\\RecordyourTravel.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FH_J\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\FH_J\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\FH_J\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
