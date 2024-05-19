@@ -13,3 +13,9 @@ C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\ob
 C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\RecordyourTravel.dll
 C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\refint\RecordyourTravel.dll
 C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\RecordyourTravel.pdb
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\RecordyourTravel.sourcelink.json
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\HistoryPage.xaml.g.cs
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+C:\Users\FH_J\source\repos\RecordyourTravel\RecordyourTravel\RecordyourTravel\obj\Debug\netstandard2.0\NewTravelPage.xaml.g.cs
