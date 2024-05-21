@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecordyourTravel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3b3e27e004a6ff1cff046f6f4de7992f9f16213")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e62a2293e527783c039b84360ca813c6a8a52431")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecordyourTravel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecordyourTravel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
